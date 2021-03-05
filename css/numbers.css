@@ -1,0 +1,813 @@
+@charset "UTF-8";
+#array{
+    z-index: 0;
+    display: grid;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 650px;
+    grid-template-columns: repeat(200, 1fr);
+    color: blue;
+  }
+._100{
+    position: relative;
+    top: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100%;
+    background-color: red;
+  }
+  ._99{
+    position: relative;
+    top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 99%;
+    background-color: red;
+  }
+  ._98{
+    position: relative;
+    top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 98%;
+    background-color: red;
+  }
+  ._97{
+    position: relative;
+    top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 97%;
+    background-color: red;
+  }
+  ._96{
+    position: relative;
+    top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 96%;
+    background-color: red;
+  }
+  ._95{
+    position: relative;
+    top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 95%;
+    background-color: red;
+  }
+  ._94{
+    position: relative;
+    top: 6%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 94%;
+    background-color: red;
+  }
+  ._93{
+    position: relative;
+    top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 93%;
+    background-color: red;
+  }
+  ._92{
+    position: relative;
+    top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 92%;
+    background-color: red;
+  }
+  ._91{
+    position: relative;
+    top: 9%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 91%;
+    background-color: red;
+  }
+  ._90{
+    position: relative;
+    top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 90%;
+    background-color: red;
+  }
+  ._89{
+    position: relative;
+    top: 11%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 89%;
+    background-color: red;
+  }
+  ._88{
+    position: relative;
+    top: 12%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 88%;
+    background-color: red;
+  }
+._87{
+    position: relative;
+    top: 13%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 87%;
+    background-color: red;
+  }
+._86{
+    position: relative;
+    top: 14%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 86%;
+    background-color: red;
+  }
+._85{
+    position: relative;
+    top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 85%;
+    background-color: red;
+  }
+._84{
+    position: relative;
+    top: 16%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 84%;
+    background-color: red;
+  }
+._83{
+    position: relative;
+    top: 17%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 83%;
+    background-color: red;
+  }
+._82{
+    position: relative;
+    top: 18%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 82%;
+    background-color: red;
+  }
+._81{
+    position: relative;
+    top: 19%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 81%;
+    background-color: red;
+  }
+  ._80{
+    position: relative;
+    top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 80%;
+    background-color: red;
+  }
+  ._79{
+    position: relative;
+    top: 21%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 79%;
+    background-color: red;
+  }
+  ._78{
+    position: relative;
+    top: 22%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 78%;
+    background-color: red;
+  }
+  ._77{
+    position: relative;
+    top: 23%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 77%;
+    background-color: red;
+  }
+  ._76{
+    position: relative;
+    top: 24%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 76%;
+    background-color: red;
+  }
+  ._75{
+    position: relative;
+    top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 75%;
+    background-color: red;
+  }
+  ._74{
+    position: relative;
+    top: 26%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 74%;
+    background-color: red;
+  }
+  ._73{
+    position: relative;
+    top: 27%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 73%;
+    background-color: red;
+  }
+  ._72{
+    position: relative;
+    top: 28%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 72%;
+    background-color: red;
+  }
+  ._71{
+    position: relative;
+    top: 29%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 71%;
+    background-color: red;
+  }
+  ._70{
+    position: relative;
+    top: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 70%;
+    background-color: red;
+  }
+  ._69{
+    position: relative;
+    top: 31%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 69%;
+    background-color: red;
+  }
+  ._68{
+    position: relative;
+    top: 32%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 68%;
+    background-color: red;
+  }
+  ._67{
+    position: relative;
+    top: 33%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 67%;
+    background-color: red;
+  }
+  ._66{
+    position: relative;
+    top: 34%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 66%;
+    background-color: red;
+  }
+  ._65{
+    position: relative;
+    top: 35%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 65%;
+    background-color: red;
+  }
+  ._64{
+    position: relative;
+    top: 36%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 64%;
+    background-color: red;
+  }
+  ._63{
+    position: relative;
+    top: 37%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 63%;
+    background-color: red;
+  }
+  ._62{
+    position: relative;
+    top: 38%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 62%;
+    background-color: red;
+  }
+  ._61{
+    position: relative;
+    top: 39%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 61%;
+    background-color: red;
+  }
+  ._60{
+    position: relative;
+    top: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 60%;
+    background-color: red;
+  }
+  ._59{
+    position: relative;
+    top: 41%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 59%;
+    background-color: red;
+  }
+  ._58{
+    position: relative;
+    top: 42%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 58%;
+    background-color: red;
+  }
+  ._57{
+    position: relative;
+    top: 43%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 57%;
+    background-color: red;
+  }
+  ._56{
+    position: relative;
+    top: 44%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 56%;
+    background-color: red;
+  }
+  ._55{
+    position: relative;
+    top: 45%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 55%;
+    background-color: red;
+  }
+  ._54{
+    position: relative;
+    top: 46%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 54%;
+    background-color: red;
+  }
+  ._53{
+    position: relative;
+    top: 47%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 53%;
+    background-color: red;
+  }
+  ._52{
+    position: relative;
+    top: 48%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 52%;
+    background-color: red;
+  }
+  ._51{
+    position: relative;
+    top: 49%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 51%;
+    background-color: red;
+  }
+  ._50{
+    position: relative;
+    top: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 50%;
+    background-color: red;
+  }
+  ._49{
+    position: relative;
+    top: 51%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 49%;
+    background-color: red;
+  }
+  ._48{
+    position: relative;
+    top: 52%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 48%;
+    background-color: red;
+  }
+  ._47{
+    position: relative;
+    top: 53%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 47%;
+    background-color: red;
+  }
+  ._46{
+    position: relative;
+    top: 54%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 46%;
+    background-color: red;
+  }
+  ._45{
+    position: relative;
+    top: 55%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 45%;
+    background-color: red;
+  }
+  ._44{
+    position: relative;
+    top: 56%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 44%;
+    background-color: red;
+  }
+  ._43{
+    position: relative;
+    top: 57%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 43%;
+    background-color: red;
+  }
+  ._42{
+    position: relative;
+    top: 58%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 42%;
+    background-color: red;
+  }
+  ._41{
+    position: relative;
+    top: 59%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 41%;
+    background-color: red;
+  }
+  ._40{
+    position: relative;
+    top: 60%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 40%;
+    background-color: red;
+  }
+  ._39{
+    position: relative;
+    top: 61%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 39%;
+    background-color: red;
+  }
+  ._38{
+    position: relative;
+    top: 62%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 38%;
+    background-color: red;
+  }
+._37{
+    position: relative;
+    top: 63%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 37%;
+    background-color: red;
+  }
+._36{
+    position: relative;
+    top: 64%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 36%;
+    background-color: red;
+  }
+._35{
+    position: relative;
+    top: 65%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 35%;
+    background-color: red;
+  }
+._34{
+    position: relative;
+    top: 66%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 34%;
+    background-color: red;
+  }
+._33{
+    position: relative;
+    top: 67%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 33%;
+    background-color: red;
+  }
+._32{
+    position: relative;
+    top: 68%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 32%;
+    background-color: red;
+  }
+._31{
+    position: relative;
+    top: 69%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 31%;
+    background-color: red;
+  }
+  ._30{
+    position: relative;
+    top: 70%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 30%;
+    background-color: red;
+  }
+  ._29{
+    position: relative;
+    top: 71%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 29%;
+    background-color: red;
+  }
+  ._28{
+    position: relative;
+    top: 72%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 28%;
+    background-color: red;
+  }
+  ._27{
+    position: relative;
+    top: 73%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 27%;
+    background-color: red;
+  }
+  ._26{
+    position: relative;
+    top: 74%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 26%;
+    background-color: red;
+  }
+  ._25{
+    position: relative;
+    top: 75%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 25%;
+    background-color: red;
+  }
+  ._24{
+    position: relative;
+    top: 76%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 24%;
+    background-color: red;
+  }
+  ._23{
+    position: relative;
+    top: 77%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 23%;
+    background-color: red;
+  }
+  ._22{
+    position: relative;
+    top: 78%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 22%;
+    background-color: red;
+  }
+  ._21{
+    position: relative;
+    top: 79%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 21%;
+    background-color: red;
+  }
+  ._20{
+    position: relative;
+    top: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 20%;
+    background-color: red;
+  }
+  ._19{
+    position: relative;
+    top: 81%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 19%;
+    background-color: red;
+  }
+  ._18{
+    position: relative;
+    top: 82%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 18%;
+    background-color: red;
+  }
+  ._17{
+    position: relative;
+    top: 83%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 17%;
+    background-color: red;
+  }
+  ._16{
+    position: relative;
+    top: 84%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 16%;
+    background-color: red;
+  }
+  ._15{
+    position: relative;
+    top: 85%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 15%;
+    background-color: red;
+  }
+  ._14{
+    position: relative;
+    top: 86%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 14%;
+    background-color: red;
+  }
+  ._13{
+    position: relative;
+    top: 87%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 13%;
+    background-color: red;
+  }
+  ._12{
+    position: relative;
+    top: 88%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 12%;
+    background-color: red;
+  }
+  ._11{
+    position: relative;
+    top: 89%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 11%;
+    background-color: red;
+  }
+  ._10{
+    position: relative;
+    top: 90%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 10%;
+    background-color: red;
+  }
+  ._9{
+    position: relative;
+    top: 91%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 9%;
+    background-color: red;
+  }
+  ._8{
+    position: relative;
+    top: 92%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 8%;
+    background-color: red;
+  }
+  ._7{
+    position: relative;
+    top: 93%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 7%;
+    background-color: red;
+  }
+  ._6{
+    position: relative;
+    top: 94%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 6%;
+    background-color: red;
+  }
+  ._5{
+    position: relative;
+    top: 95%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 5%;
+    background-color: red;
+  }
+  ._4{
+    position: relative;
+    top: 96%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 4%;
+    background-color: red;
+  }
+  ._3{
+    position: relative;
+    top: 97%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 3%;
+    background-color: red;
+  }
+  ._2{
+    position: relative;
+    top: 98%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 2%;
+    background-color: red;
+  }
+  ._1{
+    position: relative;
+    top: 99%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 1%;
+    background-color: red;
+  }
+
+

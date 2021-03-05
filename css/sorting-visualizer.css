@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.navigation-grid{
+    overflow: visible;
+    display:grid;
+    background-color: #34495e;
+    height: 70px;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+  }
+  .navigation-grid-normal:hover{
+    color: #16a085;
+  }
+  .navigation-grid-visualizing:hover{
+    color: red;
+  }
+  .navigation-grid-visualized:hover{
+    color:  #16a085;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #34495e;
+    width: 33.33333%;
+  }
+  .dropdown-content a {
+    color: white;
+    text-decoration: none;
+    display: grid;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .dropdown-content a:hover {
+    color:#16a085;
+  }
+  .dropdown .dropdown-content {
+    z-index: 100;
+    display: block;
+  }
